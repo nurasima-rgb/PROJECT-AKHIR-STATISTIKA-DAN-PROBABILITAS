@@ -1,9 +1,9 @@
 # Tugas Analisis Statistik: Deskriptif, Korelasi, dan Regresi
 
 ## 1. Informasi Penyusun
-- **Nama:** `Nur Asima Manik`
-- **NIM:** `2515091006`
-- **Program Studi:** `Sistem Informasi`
+- **Nama:** Nur Asima Manik
+- **NIM:** 2515091006
+- **Program Studi:** Sistem Informasi
 - **Mata Kuliah:** Statistika dan Probabilitas
 
 ---
